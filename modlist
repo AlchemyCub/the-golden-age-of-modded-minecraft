@@ -1,0 +1,35 @@
+.minecraft/mods/
+├── allocator_patch_v1.8.1.zip
+├── buildcraft-client-A-core-2.1.1.zip
+├── buildcraft-client-B-builders-2.1.1.zip
+├── buildcraft-client-B-energy-2.1.1.zip
+├── buildcraft-client-B-factory-2.1.1.zip
+├── buildcraft-client-B-transport-2.1.1.zip
+├── IndustrialCraft² v1.00.zip
+├── millenaire1.4.4b.zip
+├── MinefactoryReloaded_Client_1.1.2.zip
+├── MoCreatures.zip
+├── ModEqEx3.55forge.zip
+├── mod_extrabuildcraftpipes-client-2.0.1.2.zip
+├── modIC2EqExV0.11.zip
+├── mod_xiesforge.zip
+├── mod_Zeppelin-client-1.7.3.0.13.zip
+├── RedPowerArray-1.7.1.zip
+├── RedPowerCore-1.7.1.zip
+├── RedPowerLighting-1.7.1.zip
+├── RedPowerLogic-1.7.1.zip
+├── RedPowerWiring-1.7.1.zip
+├── RedstonePipe-2.0.1.1.zip
+├── rei_minimap
+│   ├── blockcolor.txt
+│   └── keyconfig.txt
+├── ReiMinimap_v1.8.zip
+├── rope 1.7.3.zip
+├── TeleportPipesClient.zip
+└── Xie
+    ├── cooking.ini
+    ├── farming.ini
+    ├── foodstacking.ini
+    └── hunger.ini
+
+2 directories, 30 files
