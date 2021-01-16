@@ -4,4 +4,4 @@ help:
 
 ## Edit this Makefile to point to wherever your executable MultiMC shell script is
 ImportInstance:
-	MultiMC -I https://github.com/AlchemyCub/the-golden-age-of-modded-minecraft/releases/download/b1.7.3/Technically-Torqued.zip
+	MultiMC -I https://github.com/corbenshiro/the-golden-age-of-modded-minecraft/releases/download/b1.7.3/Technically-Torqued.zip
